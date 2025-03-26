@@ -67,14 +67,7 @@ Gra kończy się, gdy gracz zderzy się z wrogiem lub dotrze do górnej krawędz
 - Dostęp do terminala (cmd).
 - Kompilator obsługujący C++ (np. `g++`).
 
-## 📜 Licencja
-Projekt dostępny na licencji MIT.
-
 ## 📩 Kontakt
 Autor: **Jakub Ludwiczak**  
-Jeśli masz pytania lub sugestie, skontaktuj się przez GitHub.
 
----
-
-🚀 Powodzenia w grze i nie daj się złapać! 🎯
 
