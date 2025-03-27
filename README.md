@@ -2,7 +2,7 @@
 
 HeroEnemy to gra terminalowa napisana w języku C++. Gracz kontroluje bohatera, unikając wrogów i zdobywając punkty poprzez dotarcie na szczyt planszy. Gra kończy się, gdy gracz zetknie się z wrogiem.
 
-## 🎮 Instrukcje Obsługi
+## Instrukcje Obsługi
 
 Gracz steruje postacią za pomocą następujących klawiszy:
 - `a` - ruch w lewo
@@ -16,7 +16,7 @@ Gracz steruje postacią za pomocą następujących klawiszy:
 
 Gra kończy się, gdy gracz zderzy się z wrogiem lub dotrze do górnej krawędzi planszy.
 
-## 🛠 Struktura Klas
+## Struktura Klas
 
 ![Diagram klas](diagram.png)
 
@@ -56,18 +56,18 @@ Gra kończy się, gdy gracz zderzy się z wrogiem lub dotrze do górnej krawędz
   - `init()` - inicjalizuje grę.
   - `view()` - wyświetla planszę w terminalu.
 
-## 🔥 Inicjalizacja Gry
+## Inicjalizacja Gry
 1. Uruchom program.
 2. Wybierz poziom trudności: `łatwy`, `średni` lub `trudny`.
 3. Rozmiar planszy zostanie dostosowany do poziomu trudności.
 4. Rozpocznij grę i zdobywaj punkty!
 
-## 💻 Wymagania Systemowe
+## Wymagania Systemowe
 - Komputer z systemem Windows.
 - Dostęp do terminala (cmd).
 - Kompilator obsługujący C++ (np. `g++`).
 
-## 📩 Kontakt
+## Kontakt
 Autor: **Jakub Ludwiczak**  
 
 
